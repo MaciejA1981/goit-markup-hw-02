@@ -32,7 +32,7 @@ ul {
 .address {
   background-color: #e7e9fc;
 }
-.web {
+.web-header {
   color: #4d5ae5;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
@@ -41,11 +41,11 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
 }
-.web:hover,
-.web:focus {
+.web-header:hover,
+.web-header:focus {
   color: black;
 }
-.logo {
+.logo-header {
   color: #2e2f42;
   text-decoration: none;
   text-transform: uppercase;
@@ -55,8 +55,8 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
 }
-.logo:hover,
-.logo:focus {
+.logo-header:hover,
+.logo-header:focus {
   color: black;
   text-decoration: none;
 }
