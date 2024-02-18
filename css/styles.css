@@ -31,6 +31,7 @@ ul {
 }
 .address {
   background-color: #e7e9fc;
+  font-style: normal;
 }
 .web-header {
   color: #4d5ae5;
@@ -72,10 +73,11 @@ ul {
 .page-contact .link {
   color: #434455;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 .page-contact .link:hover,
 .page-contact .link:focus {
-  color: tomato;
+  color: #404bbf;
   text-decoration: underline;
 }
 .page-button {
