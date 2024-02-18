@@ -5,11 +5,16 @@ body {
   background-color: #ffffff;
   line-height: 1.5;
 }
-h1 {
-  color: #ffffff;
+.section-primary {
   background-color: #2e2f42;
+}
+.header-primary {
+  color: #ffffff;
   font-size: 56px;
   font-weight: 700;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 h2 {
   color: #2e2f42;
@@ -86,11 +91,13 @@ ul {
   color: #ffffff;
   background-color: #4d5ae5;
   font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
 }
 .page-button:hover,
 .page-button:active {
-  color: black;
-  cursor: pointer;
+  color: #404bbf;
 }
 .invisible {
   color: #e7e9fc;
