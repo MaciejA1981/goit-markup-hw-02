@@ -31,8 +31,9 @@ body {
 h3 {
   color: #2e2f42;
 }
-p {
+.paragraph {
   color: #434455;
+  letter-spacing: 0.02em;
 }
 ul {
   list-style-type: none;
