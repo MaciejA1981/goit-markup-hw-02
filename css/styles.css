@@ -29,6 +29,9 @@ ul {
 .nav {
   background-color: #e7e9fc;
 }
+.address {
+  background-color: #e7e9fc;
+}
 .web {
   color: #4d5ae5;
   text-transform: uppercase;
@@ -80,6 +83,9 @@ ul {
 .page-button:active {
   color: black;
   cursor: pointer;
+}
+.invisible {
+  color: #e7e9fc;
 }
 .footer-background {
   background-color: #2e2f42;
