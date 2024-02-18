@@ -16,7 +16,13 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
 }
-h2 {
+.header-invisible {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.header-secondary {
   color: #2e2f42;
   background-color: #f4f4fd;
   font-size: 36px;
@@ -97,7 +103,7 @@ ul {
 }
 .page-button:hover,
 .page-button:active {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .invisible {
   color: #e7e9fc;
