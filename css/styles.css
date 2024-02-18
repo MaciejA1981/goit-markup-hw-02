@@ -73,7 +73,7 @@ ul {
 .logo-header:focus {
   color: black;
 }
-.logo-header-secondary {
+.logo-header-primary {
   color: #2e2f42;
 }
 .page-nav .link {
@@ -112,24 +112,8 @@ ul {
 .invisible {
   color: #e7e9fc;
 }
-.footer-background {
-  background-color: #2e2f42;
-}
-.web-footer {
-  color: #4d5ae5;
-  text-transform: uppercase;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-}
-.web-footer:hover,
-.web-footer:focus {
-  color: black;
-}
 .logo-footer {
-  color: #f4f4fd;
+  color: #4d5ae5;
   text-decoration: none;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
@@ -141,6 +125,12 @@ ul {
 .logo-footer:hover,
 .logo-footer:focus {
   color: black;
+}
+.logo-footer-secondary {
+  color: #f4f4fd;
+}
+.footer-background {
+  background-color: #2e2f42;
 }
 .footer-item {
   color: #f4f4fd;
