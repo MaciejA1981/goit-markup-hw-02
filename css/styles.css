@@ -1,3 +1,48 @@
 body {
   font-family: "Raleway", "Roboto", sans-serif;
 }
+.web {
+  color: red;
+  text-transform: uppercase;
+}
+.web:hover,
+.web:focus {
+  color: black;
+}
+.logo {
+  color: violet;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.logo:hover,
+.logo:focus {
+  color: black;
+  text-decoration: none;
+}
+
+.page-nav .link {
+  color: #00bcd4;
+  text-decoration: none;
+}
+.page-nav .link:hover,
+.page-nav .link:focus {
+  color: tomato;
+  text-decoration: underline;
+}
+.page-contact .link {
+  color: #00bcd4;
+  text-decoration: none;
+}
+.page-contact .link:hover,
+.page-contact .link:focus {
+  color: tomato;
+  text-decoration: underline;
+}
+.page-contact .link:active {
+  color: #ff1744;
+}
+.page-button:active {
+  color: cyan;
+  cursor: pointer;
+}
