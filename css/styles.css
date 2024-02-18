@@ -8,6 +8,12 @@ body {
 .section-primary {
   background-color: #2e2f42;
 }
+.section-tertiary {
+  background-color: #f4f4fd;
+}
+.list-tertiary {
+  background-color: #ffffff;
+}
 .header-primary {
   color: #ffffff;
   font-size: 56px;
